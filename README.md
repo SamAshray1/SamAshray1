@@ -2,7 +2,7 @@
 <h3 align="center">A passionate DevOps Engineer / Web Dev enthuist from Hyderabad, India &#127470;&#127475</h3>
 
 - 🔭 I’m currently working on **<a href="https://github.com/SamAshray1/DevOps-Project" target="blank">Full DevOps Pipeline Implementation</a>**
-- 🌱 I’m currently learning to integrate **SonarQube<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">, JFrog, Kubernetes, Monitoring with Grafana, Prometheus**
+- 🌱 I’m currently learning to integrate **SonarQube, JFrog, Kubernetes, Monitoring with Grafana, Prometheus**
 - 💬 Ask me about **Theology, Basketball, Exploring, Food**
 - 📫 How to reach me: **sam.ashray1@gmail.com**
 - 📄 Know about my experiences <a href="" target="blank">Resume</a>
@@ -15,11 +15,9 @@
         <a style="margin-left: 10px;"  target="_blank" href="">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+			<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="">
 				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-	   <a style="margin-left: 10px;" target="_blank" href="">
-					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="">
