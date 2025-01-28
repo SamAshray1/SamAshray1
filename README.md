@@ -1,39 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sam Ashray</h1>
 <h3 align="center">A passionate DevOps Engineer / Web Dev enthuist from Hyderabad, India &#127470;&#127475</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-
-
-<p align="left"> <img src="" alt="" /> </p>
-
-<p align="left"> <a href="" target="blank"><img src="" alt="" /></a> </p>
-
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-
-- 🔭 I’m currently working in <a href="" target="blank">Griffyn Robotech Private Limited</a>
-
-- 🌱 I’m currently Working on Mobile App(React-Native)
-
-- 🤝 I’m available for freelancing.
-
-- 🌱 I’m currently learning Swift && SwiftUI <a href="" target="blank">100DaysOfSwift</a>
-
-- 📝 I regularly write articles on 
-- 💬 Ask me about **Reactjs & React-Native**
-
-- 📫 How to reach me **sam.ashray1@gmail.com**
-
+- 🔭 I’m currently working on **<a href="https://github.com/SamAshray1/DevOps-Project" target="blank">Full DevOps Pipeline Implementation</a>**
+- 🌱 I’m currently learning to integrate **SonarQube, JFrog, Kubernetes, Monitoring with Grafana, Prometheus**
+- 💬 Ask me about **Theology, Basketball, Exploring, Food**
+- 📫 How to reach me: **sam.ashray1@gmail.com**
 - 📄 Know about my experiences <a href="" target="blank">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
